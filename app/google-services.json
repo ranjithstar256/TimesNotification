@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "28227880423",
+    "firebase_url": "https://thurdaytimes-default-rtdb.firebaseio.com",
+    "project_id": "thurdaytimes",
+    "storage_bucket": "thurdaytimes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28227880423:android:6a1f6e84a8ea798f996942",
+        "android_client_info": {
+          "package_name": "ran.am.thurday15"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28227880423-pc6scl07lcs5vrso40h3tu1ao7o3tbdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJkrVkun1AwWQMlw_yj2rqzwKRKnUC7ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28227880423-pc6scl07lcs5vrso40h3tu1ao7o3tbdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28227880423:android:cae48cead10da6b4996942",
+        "android_client_info": {
+          "package_name": "ran.am.timesnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28227880423-pc6scl07lcs5vrso40h3tu1ao7o3tbdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJkrVkun1AwWQMlw_yj2rqzwKRKnUC7ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28227880423-pc6scl07lcs5vrso40h3tu1ao7o3tbdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
